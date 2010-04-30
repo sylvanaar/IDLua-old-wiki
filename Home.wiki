@@ -2,4 +2,4 @@
 
 Project to realize support for Lua in IntelliJ IDEA
 
-{line-error.png|Sample}}
+{{line-error.png|Sample}}
