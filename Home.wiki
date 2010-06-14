@@ -2,4 +2,4 @@
 
 Project to realize support for Lua in IntelliJ IDEA.  [[http://plugins.intellij.net/plugin/?id=4683|Plugin site at Jetbrains]] 
 
-{{idlua001.png|Sample}}
+{{idlua001.jpg|Sample}}
