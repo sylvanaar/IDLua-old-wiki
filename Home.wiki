@@ -8,7 +8,6 @@ Project to realize support for Lua in IntelliJ IDEA.  [[http://plugins.intellij.
 
 
 {{9-13-2010-8-55-51.png}}
-{{9-13-2010-8-57-19.png}}
 {{9-13-2010-9-00-14.png}}
 {{9-13-2010-9-03-02.png}}
 {{9-13-2010-9-03-36.png}}
