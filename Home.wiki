@@ -2,10 +2,43 @@
 
 Project to realize support for Lua in IntelliJ IDEA.  [[http://plugins.intellij.net/plugin/?id=4683|Plugin site at Jetbrains]] 
 
+===== Features
+ =====
+{{{
+   1. Basic Completions Experimental
+   2. Multiple documentation providers Experimental
+   3. Resolving Globals (Compound vars are buggy) Experimental
+   4. Custom API Support Experimental
+   5. Function Information via Quickhelp Experimental
+   6. Hilighting of Upvalues and Fields Experimental
+   7. Goto Symbol
+   8. Safe Delete Experimental
+   9. Rename Identifier Experimental
+  10. Quick Documentation
+  11. JavaHelp For Lua 5.1
+  12. Execution in the Kahlua interpreter
+  13. Identifier Highlighter
+  14. Go to definition
+  15. find usages
+  16. Code formatting
+  17. Keyword completion
+  18. 5 code intentions(s)
+  19. 6 code inspection(s)
+  20. Highlighting global vs local variables
+  21. Script execution and run configurations
+  22. Kahlua interpreter window for interactive script execution (repl)
+  23. Comes with an embedded Lua compiler written in Java (Kahlua)
+  24. Structure view
+  25. Syntax checking
+  26. Syntax highlighting - including proper handling of extended syntax comments and quotes
+  27. Customizable highlighting colors
+  28. Code folding for code blocks and comments
+  29. Brace Matching for do blocks, long strings and comments, and (, { , [
+  30. Minor feature: comment in/out.z
+}}}
+
+
 {{idlua001.jpg|Sample}}
-
-
-
 
 {{9-13-2010-8-55-51.png}}
 {{9-13-2010-9-00-14.png}}
