@@ -4,6 +4,8 @@ Project to realize support for Lua in IntelliJ IDEA.  [[http://plugins.intellij.
 
 [[http://www.ohloh.net/p/idlua|ohloh page]] If you use it, be sure to vote for it on ohloh.
 
+[[Setting Up Custom API's]]
+
 ===== Features
  =====
 {{{
