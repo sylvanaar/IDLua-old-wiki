@@ -1,0 +1,19 @@
+Create a directory to store your library files.
+
+File|Project Structure|SDK's|<Your SDK>|ClassPath - Add the directory you just created.
+
+Now if you have libraries with Lua definitions already, you can just point to their directory, or place them in the directory you created.
+
+If your API has no Lua definitions, you will need to make a Lua file and define functions for each Name you want to resolve:
+
+function foo1 end
+function foo2 end
+function foo3 end
+
+This gets you auto-completion for these names.
+
+You can also get quick navigate docs by supplying a properties file in the same directory with name = documentation entries
+
+foo1 = foo1's doc
+foo2 = foo2's doc
+foo3 = foo3's doc
