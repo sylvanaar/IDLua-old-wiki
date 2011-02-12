@@ -1,3 +1,6 @@
+To get you started, I am including the **
+[[wow-apis.zip|World of Warcraft API]]**
+
 Create a directory to store your library files.
 
 File|Project Structure|SDK's|<Your SDK>|ClassPath - Add the directory you just created.
