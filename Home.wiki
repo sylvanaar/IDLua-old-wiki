@@ -6,6 +6,8 @@ Project to realize support for Lua in IntelliJ IDEA.  [[http://plugins.intellij.
 
 [[Setting Up Custom API's]]
 
+[[Setting Up Custom Libraries]]
+
 ===== Features
  =====
 {{{
