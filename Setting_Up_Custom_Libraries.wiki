@@ -1,0 +1,14 @@
+Custom libraries allow you to resolve references to code outside of your project.
+
+As an example we will use the FrameXML code from World of Warcraft as an example.
+
+To create a custom library for FrameXML:
+
+# File|Project Structure
+# Global Libraries (click the node)
+# Create a new global library (click the "+")
+# In the name field type "FrameXML"
+# Click "Attach Classes", and then point to your FrameXML directory.
+# Click OK and you should be good to go. 
+
+Note: You might want to **File|Clear Caches** if you have any trouble. 
