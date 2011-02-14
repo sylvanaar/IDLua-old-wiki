@@ -3,3 +3,5 @@
 [[http://screencast.com/t/9s5vtaKw2Ca|Custom APIs and Parameter Info]]
 
 [[http://screencast.com/t/ppI3PbwfLOQo|Code Formatter]]
+
+[[http://screencast.com/t/q3YyB9czK|Lua API Documentation]]
