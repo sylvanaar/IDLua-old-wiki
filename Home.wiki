@@ -8,6 +8,8 @@ Project to realize support for Lua in IntelliJ IDEA.  [[http://plugins.intellij.
 
 [[Setting Up Custom Libraries]]
 
+[[Screencast Collection]]
+
 ===== Features
  =====
 {{{
