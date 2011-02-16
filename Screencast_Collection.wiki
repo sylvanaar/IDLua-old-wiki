@@ -5,3 +5,5 @@
 [[http://screencast.com/t/ppI3PbwfLOQo|Code Formatter]]
 
 [[http://screencast.com/t/q3YyB9czK|Lua API Documentation]]
+
+[[http://screencast.com/t/wjRQT7horuf|FrameXML (Code) Browser]]
