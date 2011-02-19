@@ -1,0 +1,4 @@
+Corona API files for version 2011.268. These files are generated from Corona api resources pages ([[http://developer.anscamobile.com/resources/apis/|developer.anscamobile.com/resources/apis/]]). Check "[[https://bitbucket.org/sylvanaar2/lua-for-idea/wiki/Home|Idea Lua Support Wiki]]" page for how to use them.
+
+Download link:
+[[https://bitbucket.org/Cagatay/corona-api-support-under-lua-for-idea/downloads/corona_api.zip|bitbucket.org/Cagatay/corona-api-support-under-lua-for-idea/downloads/corona_api.zip]]
