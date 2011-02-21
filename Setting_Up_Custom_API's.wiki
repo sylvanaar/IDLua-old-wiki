@@ -21,6 +21,10 @@ foo1 = foo1's doc
 foo2 = foo2's doc
 foo3 = foo3's doc
 
+For more advanced integrations you have the option of supplying a ".doclua" file which should have the same name as your definitions file, eg. corona_api.lua, corona_api.doclua.
+
+The doclua file will allow you to provide full documentation integration. Refer to the [[https://bitbucket.org/sylvanaar2/lua-for-idea/src/2be1f4994106/test/corona_api.doclua|example file]] for more details.  
+
 {{2-11-2011-6-27-16.png}}
 {{2-11-2011-6-29-06.png}}
 {{2-11-2011-6-30-27.png}}
