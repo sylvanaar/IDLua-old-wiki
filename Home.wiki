@@ -15,7 +15,7 @@ Project to realize support for Lua in IntelliJ IDEA.  [[http://plugins.intellij.
 
 === Features ===
 
-    * [[Live Templates|Live Templates]] ("Zen Lua")
+    * [[http://screencast.com/t/GYF0sAw6N|Live Templates]] ("Zen Lua")
     * Basic Completions
     * Quick Documentation with Multiple documentation providers
     * Resolving Globals in project and libraries
