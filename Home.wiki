@@ -30,7 +30,7 @@ Project to realize support for Lua in IntelliJ IDEA.  [[http://plugins.intellij.
     * Execution in the Kahlua interpreter
     * Go to definition
     * find usages
-    * Code formatting
+    * [[http://screencast.com/t/ppI3PbwfLOQo|Code formatting]]
     * Keyword completion
     * 1 quickfix
     * 5 code intentions
