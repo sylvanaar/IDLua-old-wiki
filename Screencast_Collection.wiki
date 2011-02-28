@@ -13,3 +13,5 @@
 [[http://screencast.com/t/hhYYEYl6K71a|"self" Completions and Resolving]]
 
 [[http://screencast.com/t/GYF0sAw6N|"Zen Lua" Live Templates]]
+
+[[http://screencast.com/t/2AA84azH|Integrated Custom API Help]]
