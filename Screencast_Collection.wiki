@@ -15,3 +15,5 @@
 [[http://screencast.com/t/GYF0sAw6N|"Zen Lua" Live Templates]]
 
 [[http://screencast.com/t/2AA84azH|Integrated Custom API Help]]
+
+[[http://screencast.com/t/PDpdC3IQI9Yt|Smart block completion]]
