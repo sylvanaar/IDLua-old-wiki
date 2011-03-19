@@ -8,6 +8,8 @@ Project to realize support for Lua in IntelliJ IDEA.  [[http://plugins.intellij.
 
 [[Setting Up Custom Libraries]]
 
+[[Setting Up Custom Documentation]]
+
 [[Screencast Collection]]
 
 [[https://bitbucket.org/sylvanaar2/lua-for-idea/wiki/Corona%20API%20Support|Corona API Support]]
