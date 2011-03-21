@@ -17,3 +17,5 @@
 [[http://screencast.com/t/2AA84azH|Integrated Custom API Help]]
 
 [[http://screencast.com/t/PDpdC3IQI9Yt|Smart block completion]]
+
+[[http://www.screencast.com/t/XKAdmj6sn|Running the Language Console]]
