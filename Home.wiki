@@ -17,6 +17,7 @@ Project to realize support for Lua in IntelliJ IDEA.  [[http://plugins.intellij.
 
 === Features ===
 
+    * [[http://www.screencast.com/t/XKAdmj6sn|Lua SDK REPL Console]] (Experimental)
     * [[http://screencast.com/t/GYF0sAw6N|Live Templates]] ("Zen Lua")
     * Basic Completions
     * Quick Documentation with Multiple documentation providers
