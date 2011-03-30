@@ -1,5 +1,5 @@
 To get you started, I am including the **
-[[wow-apis.zip|World of Warcraft API]]**
+[[wow-apis.zip|World of Warcraft API]]**  (Also available [[https://bitbucket.org/sylvanaar2/idlua-sdk-world-of-warcraft|here]])
 
 Create a directory to store your library files.
 
