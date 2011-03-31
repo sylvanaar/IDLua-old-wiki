@@ -1,4 +1,4 @@
-Custom documentation can be provided for a custom API.
+Custom documentation can be provided for a **[[Setting_Up_Custom_API's|custom API]]**.
 
 Custom documentation is provided via a Lua script with the same name and location as the API definition that it documents. The file has the special extension .doclua in order to facilitate this naming.
 
