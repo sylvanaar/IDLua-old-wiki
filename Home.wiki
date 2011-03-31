@@ -8,15 +8,13 @@ Project to realize support for Lua in IntelliJ IDEA.  [[http://plugins.intellij.
 
 |[[https://bitbucket.org/sylvanaar2/idlua-sdk-corona/wiki/Home|Corona API Support]]|[[https://bitbucket.org/sylvanaar2/idlua-sdk-world-of-warcraft|World of Warcraft API Support]]|
 
+[[Screencast Collection]]
+
 [[Setting Up Custom API's]]
 
 [[Setting Up Custom Libraries]]
 
 [[Setting Up Custom Documentation]]
-
-[[Screencast Collection]]
-
-
 
 === Features ===
     * LuaDoc Highlighting and Folding (Experimental)
