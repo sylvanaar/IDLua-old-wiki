@@ -9,6 +9,7 @@ File|Project Structure|SDK's|<Your SDK>|ClassPath - Add the directory you just c
 Now if you have libraries with Lua definitions already, you can just point to their directory, or place them in the directory you created.
 
 If your API has no Lua definitions, you will need to make a Lua file and define functions for each Name you want to resolve:
+
 {{{
 #!lua
 
@@ -17,6 +18,7 @@ function foo1 end
 function foo2 end
 function foo3 end
 }}}
+
 
 This gets you auto-completion for these names.
 
