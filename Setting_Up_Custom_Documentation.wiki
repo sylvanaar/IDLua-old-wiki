@@ -1,14 +1,18 @@
 Custom documentation can be provided for a custom API.
 
-Custom documentation is provided via a lua script with the same name and location as the API definition that it documents. The file has the special exension .doclua in order to facilitate this naming.
+Custom documentation is provided via a Lua script with the same name and location as the API definition that it documents. The file has the special extension .doclua in order to facilitate this naming.
 
-For example, the World of Warcraft API is named: wow_api.lua, and the documentation is wow_api.doclua.
+For example, the [[https://bitbucket.org/sylvanaar2/idlua-sdk-world-of-warcraft/src|World of Warcraft API]] is named: wow_api.lua, and the documentation is wow_api.doclua.
 
 To support documentation you implement 3 fuctions in the .doclua: getDocumentation, getDocumentationUrl, and getQuickNavigateDocumentation.
 
 In addition 3 functions are provided to help with implementation: log, disableCache, and fetchUrl.
 
-log writes to the idea.log file, disableCache prevents the lua script from being cached (useful while developing the script - be sure to remove it), and fetchUrl which retrieves a web page as a string.
+log(sting) writes to the idea.log file
+
+disableCache() prevents the lua script from being cached (useful while developing the script - be sure to remove it)
+
+fetchUrl(string) retrieves a web page as a string.
 
 Below is an example of how to implement a documentation provider.
 
