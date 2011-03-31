@@ -2,6 +2,8 @@
 
 Download one of the existing API zips. Unzip it, then follow the pictures to install the API into your SDK.
 
+Note: If your Lua SDK does not have "stdlibrary" in it, you will need to delete the SDK and create it again.
+
 
 {{api001.png}}
 {{api002.png}}
