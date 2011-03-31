@@ -1,6 +1,6 @@
 === Setting Up A Custom API ===
 
-API Files are available for **[[https://bitbucket.org/sylvanaar2/idlua-sdk-corona|Corona]]** and **[[https://bitbucket.org/sylvanaar2/idlua-sdk-world-of-warcraft|World of Warcraft]]**
+API Files are available for **[[https://bitbucket.org/sylvanaar2/idlua-sdk-corona|Corona]]** and **[[https://bitbucket.org/sylvanaar2/idlua-sdk-world-of-warcraft|World of Warcraft]]**, you also have the option of making your own.
 
 Create a directory to store your library files.
 
