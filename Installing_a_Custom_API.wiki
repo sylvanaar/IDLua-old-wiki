@@ -1,0 +1,4 @@
+=== Installing a Custom API ===
+
+Download one of the existing API zips. Unzip it, then follow the pictures to install the API into your SDK.
+
