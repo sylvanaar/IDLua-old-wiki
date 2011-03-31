@@ -12,7 +12,7 @@ Project to realize support for Lua in IntelliJ IDEA.  [[http://plugins.intellij.
 
 [[Screencast Collection]]
 
-[[https://bitbucket.org/sylvanaar2/lua-for-idea/wiki/Corona%20API%20Support|Corona API Support]]
+[[https://bitbucket.org/sylvanaar2/idlua-sdk-corona/wiki/Home|Corona API Support]]
 
 
 === Features ===
