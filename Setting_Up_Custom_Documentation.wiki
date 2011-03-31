@@ -8,9 +8,9 @@ To support documentation you implement 3 fuctions in the .doclua: getDocumentati
 
 In addition 3 functions are provided to help with implementation: log, disableCache, and fetchUrl.
 
-log(sting) writes to the idea.log file
+log(string) writes to the idea.log file
 
-disableCache() prevents the lua script from being cached (useful while developing the script - be sure to remove it)
+disableCache() prevents the Lua script from being cached (useful while developing the script - be sure to remove it)
 
 fetchUrl(string) retrieves a web page as a string.
 
