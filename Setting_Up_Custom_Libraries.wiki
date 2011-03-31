@@ -1,3 +1,5 @@
+=== Setting Up Custom Libraries ===
+
 Custom libraries allow you to resolve references to code outside of your project.
 
 As an example we will use the FrameXML code from World of Warcraft as an example.
