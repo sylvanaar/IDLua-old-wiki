@@ -2,7 +2,7 @@ Custom documentation can be provided for a custom API.
 
 Custom documentation is provided via a Lua script with the same name and location as the API definition that it documents. The file has the special extension .doclua in order to facilitate this naming.
 
-For example, the **[[https://bitbucket.org/sylvanaar2/idlua-sdk-world-of-warcraft/src|World of Warcraft API]]** is named: wow_api.lua, and the documentation is wow_api.doclua.
+For example, the **[[https://bitbucket.org/sylvanaar2/idlua-sdk-world-of-warcraft/src|World of Warcraft API]]** is named: **wow-api.lua**, and the documentation is **wow-api.doclua**.
 
 To support documentation you implement 3 fuctions in the .doclua: getDocumentation, getDocumentationUrl, and getQuickNavigateDocumentation.
 
