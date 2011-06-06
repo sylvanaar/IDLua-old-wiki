@@ -18,6 +18,10 @@ Project to realize support for Lua in IntelliJ IDEA.  [[http://plugins.intellij.
 
 [[Setting Up Custom Documentation]]
 
+=== Contact Info ===
+IRC: on freenode.net channel #idlua
+Twitter: @jsakhtar
+
 === Features ===
     * Modules support
     * [[http://www.screencast.com/t/CBWIkoZPg|Debugger support]] (Experimental)
