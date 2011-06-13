@@ -8,7 +8,7 @@ Project to realize support for Lua in IntelliJ IDEA.  [[http://plugins.intellij.
 
 [[Installing a Custom API]]  **(API support has been updated. You may need to reinstall the API)**
 
-|[[https://bitbucket.org/sylvanaar2/idlua-sdk-corona/wiki/Home|Corona API Support]]|[[https://bitbucket.org/sylvanaar2/idlua-sdk-world-of-warcraft|World of Warcraft API Support]]|[[https://bitbucket.org/sylvanaar2/idlua-sdk-rift]]|
+|[[https://bitbucket.org/sylvanaar2/idlua-sdk-corona/wiki/Home|Corona API Support]]|[[https://bitbucket.org/sylvanaar2/idlua-sdk-world-of-warcraft|World of Warcraft API Support]]|[[https://bitbucket.org/sylvanaar2/idlua-sdk-rift|Rift API Support]]|
 
 [[Screencast Collection]]
 
