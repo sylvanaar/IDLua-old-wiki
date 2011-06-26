@@ -25,6 +25,11 @@ Project to realize support for Lua in IntelliJ IDEA.  [[http://plugins.intellij.
 
  Twitter: @jsakhtar
 
+ Automated Exceptions: 
+  If you want to follow up on an automated exception submission use this link:
+  
+http://sylvanaar.myjetbrains.com/youtrack/issues/IDLua
+
 === Features ===
     * Modules support
     * [[http://www.screencast.com/t/CBWIkoZPg|Debugger support]] (Experimental)
