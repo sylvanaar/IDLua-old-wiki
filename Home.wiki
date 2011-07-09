@@ -33,6 +33,7 @@ Project to realize support for Lua in IntelliJ IDEA.  [[http://plugins.intellij.
 http://sylvanaar.myjetbrains.com/youtrack/issues/IDLua
 
 === Features ===
+    * [[http://www.screencast.com/t/JoeypQp4A9WS|Introduce Variable Refactoring]] (Experimental)
     * Modules support
     * [[http://www.screencast.com/t/CBWIkoZPg|Debugger support]] (Experimental)
     * [[http://www.screencast.com/t/qcngMlczh|LuaDoc Support]] (Experimental)
