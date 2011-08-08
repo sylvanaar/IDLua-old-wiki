@@ -32,6 +32,15 @@ Project to realize support for Lua in IntelliJ IDEA.  [[http://plugins.intellij.
   
 http://sylvanaar.myjetbrains.com/youtrack/issues/IDLua
 
+=== Special Thanks ==
+
+Thanks to YourKit for supporting open-source, and providing me with a license to to their profiler tool.
+
+YourKit, LLC is the creator of innovative and intelligent tools for profiling
+Java and .NET applications. Take a look at YourKit's leading software products:
+[[http://www.yourkit.com/java/profiler/index.jsp|YourKit Java Profiler]] and
+[[http://www.yourkit.com/.net/profiler/index.jsp|YourKit .NET Profiler]].
+
 === Features ===
     * [[http://www.screencast.com/t/JoeypQp4A9WS|Introduce Variable Refactoring]] (Experimental)
     * Modules support
