@@ -23,6 +23,10 @@ Project to realize support for Lua in IntelliJ IDEA.  [[http://plugins.intellij.
 
 [[Setting Up Custom Documentation]]
 
+=== Join The Project ===
+
+Interested in joining the project? Feel like you have something to contribute? Contact me, I would love to hear from you!
+
 === Contact Info ===
 
  Twitter: @jsakhtar
