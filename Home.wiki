@@ -1,4 +1,4 @@
-== Lua for [[http://www.jetbrains.com/idea/|{{logo_intellij_idea.gif}}]] (A Full Featured Lua IDE) ==
+== Lua for [[http://www.jetbrains.com/idea/|{{logo_intellij_idea.gif|IntelliJ IDEA}}]] (A Full Featured Lua IDE) ==
 
 This plugin is licensed under the Apache 2 license.
 
