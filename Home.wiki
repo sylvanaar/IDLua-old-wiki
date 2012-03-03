@@ -34,7 +34,7 @@ Coming Soon! : [[http://i.imgur.com/1nrEO.png|Single Option based Configuration 
 
 Interested in joining the project? Feel like you have something to contribute? Contact me, I would love to hear from you!
 
-=== Contact Info ===
+=== Contact Info (I want to hear from you!) ===
  
 *  Join me on IRC. Freenode channel #IDLua, server:irc.freenode.net. Or - 
 If you don't have an IRC client, [[http://webchat.freenode.net?nick=BitbucketUser.&channels=IDLua&uio=OT10cnVlde|I have an instant web link you can use]].
