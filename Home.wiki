@@ -60,14 +60,16 @@ Java and .NET applications. Take a look at YourKit's leading software products:
 [[http://www.yourkit.com/.net/profiler/index.jsp|YourKit .NET Profiler]].
 
 === Features ===
-    * Control-flow and Data-flow analysis
-    * Type inference based completions
-    * [[http://www.screencast.com/t/JoeypQp4A9WS|Introduce Variable Refactoring]] (Experimental)
+    * Support for LuaJ and Kahlua for Lua code execution.
+    * Annotated Listing File Generation
+    * Control-flow and Data-flow analysis (*Experimental*)
+    * Type inference based completions (*Experimental*)
+    * [[http://www.screencast.com/t/JoeypQp4A9WS|Introduce Variable Refactoring]] (*Experimental*)
     * Modules support
-    * [[http://www.screencast.com/t/CBWIkoZPg|Debugger support]] (Experimental)
-    * [[http://www.screencast.com/t/qcngMlczh|LuaDoc Support]] (Experimental)
-    * [[http://www.screencast.com/t/0f262SeCKmqT|Lua SDK REPL Console]] (Experimental)
-    * [[http://screencast.com/t/GYF0sAw6N|Live Templates]] ("Zen Lua")
+    * [[http://www.screencast.com/t/CBWIkoZPg|Debugger support]] (*Experimental*)
+    * [[http://www.screencast.com/t/qcngMlczh|LuaDoc Support]] (*Experimental*)
+    * [[http://www.screencast.com/t/0f262SeCKmqT|Lua SDK REPL Console]] (*Experimental*)
+    * [[http://screencast.com/t/GYF0sAw6N|Live Templates]]
     * Basic Completions
     * Quick Documentation with Multiple documentation providers
     * Resolving Globals in project and libraries
