@@ -36,21 +36,19 @@ Interested in joining the project? Feel like you have something to contribute? C
 
 === Contact Info ===
  
- Join me on IRC. Freenode channel #IDLua, irc.freenode.net
- 
- If you don't have an IRC client, I have an instant web link you can use. Just click the following link:  http://webchat.freenode.net?nick=BitbucketUser.&channels=IDLua&uio=d4
+*  Join me on IRC. Freenode channel #IDLua, server:irc.freenode.net. Or - 
+If you don't have an IRC client, [[http://webchat.freenode.net?nick=BitbucketUser.&channels=IDLua&uio=OT10cnVlde|I have an instant web link you can use]].
 
+* Another way is to use the Jetbrains IDETalk plugin. My name there is: sylvanaar at talk.google.com
 
+* Email: sylvanaar at mindspring dot com
 
+* Twitter: @jsakhtar
 
- Email: sylvanaar at mindspring dot com
-
- Twitter: @jsakhtar
-
- Automated Exceptions: 
-  If you want to follow up on an automated exception submission use this link:
+* Automated Exceptions: 
+  If you want to follow up on an automated exception submission [[http://sylvanaar.myjetbrains.com/youtrack/issues/IDLua|use this link]]
   
-http://sylvanaar.myjetbrains.com/youtrack/issues/IDLua
+
 
 === Special Thanks ==
 
