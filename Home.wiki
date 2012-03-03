@@ -35,6 +35,11 @@ Coming Soon! : [[http://i.imgur.com/1nrEO.png|Single Option based Configuration 
 Interested in joining the project? Feel like you have something to contribute? Contact me, I would love to hear from you!
 
 === Contact Info ===
+ 
+ Join me on IRC. Freenode channel #IDLua, irc.freenode.net
+
+
+
 
  Email: sylvanaar at mindspring dot com
 
