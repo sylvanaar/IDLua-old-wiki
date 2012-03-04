@@ -16,7 +16,7 @@ Coming Soon! : [[http://i.imgur.com/1nrEO.png|Single Option based Configuration 
 
 **[[http://www.screencast.com/t/D1UKynKND|Basic IDE Setup Screencast]]**
 
-
+** Help Pick a New Name For the Project! Please send your suggestions to any of the contacts addresses below **
 
 [[Installing a Custom API]]  **(API support has been updated. You may need to reinstall the API)**
 
