@@ -16,7 +16,6 @@ Coming Soon! : [[http://i.imgur.com/1nrEO.png|Single Option based Configuration 
 
 **[[http://www.screencast.com/t/D1UKynKND|Basic IDE Setup Screencast]]**
 
-** Help Pick a New Name For the Project! Please send your suggestions to any of the contacts addresses below **
 
 [[Installing a Custom API]]  **(API support has been updated. You may need to reinstall the API)**
 
@@ -33,6 +32,9 @@ Coming Soon! : [[http://i.imgur.com/1nrEO.png|Single Option based Configuration 
 === Join The Project ===
 
 Interested in joining the project? Feel like you have something to contribute? Contact me, I would love to hear from you!
+
+
+** Help Pick a New Name For the Project! Please send your suggestions to any of the contacts addresses below **
 
 === Contact Info (I want to hear from you!) ===
  
