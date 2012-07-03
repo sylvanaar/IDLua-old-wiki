@@ -64,9 +64,9 @@ Java and .NET applications. Take a look at YourKit's leading software products:
 === Features ===
     * Support for LuaJ and Kahlua for Lua code execution.
     * Annotated Listing File Generation
-    * Control-flow and Data-flow analysis (*Experimental*)
-    * [[http://www.screencast.com/t/tZkPflBjfJ0|Type inference based completions]](*Experimental*)
-    * [[http://www.screencast.com/t/JoeypQp4A9WS|Introduce Variable Refactoring]] (*Experimental*)
+    * Control-flow and Data-flow analysis (**Experimental**)
+    * [[http://www.screencast.com/t/tZkPflBjfJ0|Type inference based completions]](**Experimental**)
+    * [[http://www.screencast.com/t/JoeypQp4A9WS|Introduce Variable Refactoring]] (**Experimental**)
     * Modules support
     * [[http://www.screencast.com/t/CBWIkoZPg|Debugger support]] (**Experimental**)
     * [[http://www.screencast.com/t/qcngMlczh|LuaDoc Support]] (**Experimental**)
