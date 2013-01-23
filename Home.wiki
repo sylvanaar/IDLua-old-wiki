@@ -17,17 +17,17 @@ Coming Soon! : [[http://i.imgur.com/1nrEO.png|Single Option based Configuration 
 **[[http://www.screencast.com/t/D1UKynKND|Basic IDE Setup Screencast]]**
 
 
-[[Installing a Custom API]]  **(API support has been updated. You may need to reinstall the API)**
+[[Installing_a_Custom_API]]  **(API support has been updated. You may need to reinstall the API)**
 
 |[[https://bitbucket.org/sylvanaar2/idlua-sdk-corona/wiki/Home|Corona API Support]]|[[https://bitbucket.org/sylvanaar2/idlua-sdk-world-of-warcraft|World of Warcraft API Support]]|[[https://bitbucket.org/sylvanaar2/idlua-sdk-rift|Rift API Support]]|
 
-[[Screencast Collection]]
+[[Screencast_Collection]]
 
-[[Setting Up Custom API's]]
+[[Setting_Up_Custom_API's]]
 
-[[Setting Up Custom Libraries]]
+[[Setting_Up_Custom_Libraries]]
 
-[[Setting Up Custom Documentation]]
+[[Setting_Up_Custom_Documentation]]
 
 === Join The Project ===
 
