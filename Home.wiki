@@ -1,6 +1,7 @@
 == Lua for [[http://www.jetbrains.com/idea/|{{logo_intellij_idea.gif|IntelliJ IDEA}}]] (A Full Featured Lua IDE) ==
+[[https://coderwall.com/sylvanaar|{{https://api.coderwall.com/sylvanaar/endorsecount.png}}]]
 
-This plugin is licensed under the Apache 2 license.
+This plugin is licensed under the Apache 2 license. 
 
 Project to realize support for Lua in IntelliJ IDEA.  [[http://plugins.intellij.net/plugin/?idea&pluginId=5055|Plugin site at Jetbrains]] If you use it, be sure to vote for it on [[http://www.ohloh.net/p/idlua|ohloh]].
 
