@@ -1,5 +1,5 @@
 == Lua for [[http://www.jetbrains.com/idea/|{{logo_intellij_idea.gif|IntelliJ IDEA}}]] (A Full Featured Lua IDE) ==
-[[https://coderwall.com/sylvanaar|{{https://api.coderwall.com/sylvanaar/endorsecount.png}}]]
+|[[https://coderwall.com/sylvanaar|{{https://api.coderwall.com/sylvanaar/endorsecount.png}}]]|[[[https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=G9UNNFXRPCPS2|{{https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif|Help support development}}]]|
 
 This plugin is licensed under the Apache 2 license. 
 
