@@ -39,8 +39,7 @@ Interested in joining the project? Feel like you have something to contribute? C
 
 === Contact Info (I want to hear from you!) ===
  
-*  Join me on IRC. Freenode channel #IDLua, server:irc.freenode.net. Or - 
-If you don't have an IRC client, [[http://webchat.freenode.net?nick=BitbucketUser.&channels=IDLua&uio=OT10cnVlde|I have an instant web link you can use]].
+*  [[http://www.hipchat.com/g1D7di2DN|Join me on HipChat]]
 
 * Another way is to use the Jetbrains IDETalk plugin. My name there is: sylvanaar at talk.google.com
 
