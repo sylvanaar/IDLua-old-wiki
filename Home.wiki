@@ -39,8 +39,6 @@ Interested in joining the project? Feel like you have something to contribute? C
 
 === Contact Info (I want to hear from you!) ===
  
-*  [[http://www.hipchat.com/g1D7di2DN|Join me on HipChat]]
-
 * Another way is to use the Jetbrains IDETalk plugin. My name there is: sylvanaar at talk.google.com
 
 * Email: sylvanaar at mindspring dot com
