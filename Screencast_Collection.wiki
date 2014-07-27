@@ -21,3 +21,5 @@
 [[http://screencast.com/t/PDpdC3IQI9Yt|Smart block completion]]
 
 [[http://www.screencast.com/t/XKAdmj6sn|Running the Language Console]]
+
+[[http://www.screencast.com/t/4CCFCNOu4p|Navigate to function and block]]
