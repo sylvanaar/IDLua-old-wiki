@@ -8,7 +8,7 @@ Project to realize support for Lua in IntelliJ IDEA.  [[http://plugins.intellij.
 Coming Soon! : [[http://i.imgur.com/1nrEO.png|Single Option based Configuration For Supported API's]]
 
 
-** First: Download the [[http://www.jetbrains.com/idea/download/index.html|FREE IntelliJ IDE]] **
+** First: Download the [[http://www.jetbrains.com/idea/download/index.html|FREE IntelliJ IDEA]] **
 
 ** Second: Install the plugin from the plugin manager in the IDE (Settings|Plugins) - scroll down on this page and follow the pictures if you need help with this **
 
