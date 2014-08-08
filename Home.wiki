@@ -3,6 +3,8 @@
 
 This plugin is licensed under the Apache 2 license. 
 
+Build Status {{http://build.sylvanaar.com:8111/httpAuth/app/rest/builds/buildType:idlua_LuaForIdeaIdea14_BuildCheck/statusIcon|}}
+
 Project to realize support for Lua in IntelliJ IDEA.  [[http://plugins.intellij.net/plugin/?idea&pluginId=5055|Plugin site at Jetbrains]] If you use it, be sure to vote for it on [[http://www.ohloh.net/p/idlua|ohloh]].
 
 Coming Soon! : [[http://i.imgur.com/1nrEO.png|Single Option based Configuration For Supported API's]]
