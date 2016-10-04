@@ -30,6 +30,8 @@ Coming Soon! : [[http://i.imgur.com/1nrEO.png|Single Option based Configuration 
 
 [[Setting_Up_Custom_Documentation|Setting Up Custom Documentation]]
 
+[[Existing_Custom_APIs_and_Libraries|Existing Custom APIs & Libraries]]
+
 === Join The Project ===
 
 Interested in joining the project? Feel like you have something to contribute? Contact me, I would love to hear from you!
