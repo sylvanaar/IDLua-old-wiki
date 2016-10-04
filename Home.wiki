@@ -1,4 +1,4 @@
-}== Lua for [[http://www.jetbrains.com/idea/|{{https://bitbucket.org/repo/jga8o/images/1947324327-logo_IntelliJIDEA.png|logo_IntelliJIDEA.png}]] (A Full Featured Lua IDE) ==
+== Lua for [[http://www.jetbrains.com/idea/]] (A Full Featured Lua IDE) ==
 [[https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=G9UNNFXRPCPS2|{{https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif|Help support development}}]]|
 
 This plugin is licensed under the Apache 2 license. 
